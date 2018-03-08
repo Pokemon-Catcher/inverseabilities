@@ -1,0 +1,8 @@
+	{ 
+		name: "[Gen 7] Inverse Abilities",
+		desc: ["All effects of abilities are inverted",],
+		mod: 'inverseabilities',
+		ruleset: ['Pokemon', 'Sleep Clause Mod', 'Species Clause', 'Nickname Clause', 'OHKO Clause', 'Moody Clause', 'Evasion Moves Clause', 'Endless Battle Clause', 'Exact HP Mod', 'Cancel Mod', 'Team Preview'],
+		banlist: ['CAP', 'Baton Pass'],
+		column: 2,
+		},
